@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1660987459 source:c:\users\josti\desktop\coursera\cod\taskred\multi threads matrix\multi_thread_matrix\main.cpp
+	"test_runner.h"
+	"profile.h"
+	<vector>
+	<thread>
+	<future>
+
+1660389856 c:\users\josti\desktop\coursera\cod\taskred\multi threads matrix\multi_thread_matrix\test_runner.h
+	<sstream>
+	<stdexcept>
+	<iostream>
+	<map>
+	<set>
+	<string>
+	<vector>
+
+1660371466 c:\users\josti\desktop\coursera\cod\taskred\multi threads matrix\multi_thread_matrix\profile.h
+	<chrono>
+	<iostream>
+	<string>
+
