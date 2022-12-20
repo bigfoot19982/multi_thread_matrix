@@ -32,6 +32,8 @@ private:
   size_t size_;
 };
 
+// comment
+
 template <typename Iterator>
 class Paginator {
 private:
